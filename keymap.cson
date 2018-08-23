@@ -32,3 +32,6 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#configuring-with-cson
 'atom-text-editor.autocomplete-active':
   'tab':'core:move-down'
+
+'.command-palette':
+  'tab':'core:move-down'
